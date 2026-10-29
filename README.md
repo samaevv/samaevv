@@ -1,25 +1,12 @@
-<p align="center"><img src="banner.svg" alt="samaevv" width="100%"></p>
+<p align="center"><img src="banner.png" alt="samaevv" width="100%"></p>
 
 <h3 align="center">Привіт! 👋 Я розробник з України: роблю спільноту для програмістів і голосового асистента, який працює на твоєму комп'ютері</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20in-Ukraine-ffd500?style=for-the-badge&labelColor=0057b7" alt="Made in Ukraine">
-</p>
+<p align="center">🇺🇦 <b>Made in Ukraine</b></p>
 
 ---
 
-## 🛠️ Стек
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-0b1e26?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Python-0b1e26?style=for-the-badge&logo=python&logoColor=3c96ff" alt="Python">
-  <img src="https://img.shields.io/badge/C++-0b1e26?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-0b1e26?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-0b1e26?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0b1e26?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-0b1e26?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0b1e26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+<p align="center"><img src="stack.png" alt="Linux · Python · C++ · JavaScript · HTML · CSS · Git · GitHub" width="100%"></p>
 
 ---
 
@@ -33,10 +20,7 @@
 - ⚙️ **Бекенд:** FastAPI + MongoDB, розгорнутий на Render
 - 🎬 **Промо-відео:** серія вертикальних рекламних роликів, зібраних на Remotion
 
-<p>
-  <a href="https://code-bloom.org"><img src="https://img.shields.io/badge/Сайт-code--bloom.org-38d9ff?style=for-the-badge&labelColor=06161d" alt="Сайт"></a>
-  <a href="https://t.me/codebloomcomunity"><img src="https://img.shields.io/badge/Telegram-спільнота-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=06161d" alt="Telegram"></a>
-</p>
+**[🌐 code-bloom.org](https://code-bloom.org)  ·  [✈️ Telegram-спільнота](https://t.me/codebloomcomunity)**
 
 ---
 
