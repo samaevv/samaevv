@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#03141b"/><stop offset="1" stop-color="#0a2a38"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38d9ff" stop-opacity="0.55"/><stop offset="1" stop-color="#0a2a38" stop-opacity="0"/></radialGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff"/><stop offset="0.4" stop-color="#9cf0ff"/><stop offset="1" stop-color="#38d9ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <g opacity="0.16" stroke="#38d9ff" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/><path d="M100 0V300M300 0V300M500 0V300M700 0V300M900 0V300M1100 0V300"/>
+  </g>
+  <g transform="translate(930 150)">
+    <circle r="170" fill="url(#glow)"/>
+    <circle r="118" fill="none" stroke="#3c96ff" stroke-width="5" stroke-dasharray="26 18"/>
+    <circle r="96" fill="none" stroke="#38d9ff" stroke-width="3" stroke-dasharray="120 60"/>
+    <circle r="72" fill="none" stroke="#a0d7eb" stroke-width="1.5" stroke-dasharray="2 6" opacity="0.8"/>
+    <circle r="52" fill="none" stroke="#78ebff" stroke-width="3"/>
+    <circle r="40" fill="url(#core)"/>
+    <circle cx="0" cy="-132" r="4" fill="#ffb454"/><circle cx="114" cy="66" r="3.4" fill="#ffb454"/><circle cx="-110" cy="74" r="3" fill="#ffb454"/>
+  </g>
+  <text x="70" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="300" fill="#eaf8fc" letter-spacing="2">samaevv</text>
+  <text x="72" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#8fd9ee">Voice assistants · local AI · Linux</text>
+  <text x="72" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#6c8d99">Ukrainian-first. Everything runs on your own machine.</text>
+</svg>
