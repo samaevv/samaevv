@@ -44,6 +44,13 @@ curl -fsSL https://raw.githubusercontent.com/samaevv/samaevv-assistant/main/get.
 
 ---
 
+## 🖼️ Як це виглядає
+
+<p align="center"><img src="assets/jarvis-home.png" alt="Центр керування Джарвіса" width="49%"> <img src="assets/jarvis-store.png" alt="Магазин плагінів" width="49%"></p>
+<p align="center"><img src="assets/code-bloom.png" alt="Code Bloom" width="49%"> <img src="assets/jarvis-cmds.png" alt="Конструктор команд" width="49%"></p>
+
+---
+
 ## 🌱 Зараз вчу й роблю
 - Windows-версію асистента
 - Кращі українські голоси та розуміння вільних фраз
